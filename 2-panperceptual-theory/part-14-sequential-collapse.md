@@ -1,6 +1,6 @@
 The Law of Sequential Perceptual Collapse and the Speed of Light as a Resonance Frequency
 
-– June 2025
+- June 2025
 
 ---
 
