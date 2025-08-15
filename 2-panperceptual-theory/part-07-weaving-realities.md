@@ -187,7 +187,8 @@ observers = {
     "Shamanic": {"PCI": 3e12, "F": 150, "SE_k": 0.02, "SE_F": 15},
     "Plant": {"PCI": 1e3, "F": 0.01, "SE_k": 0.05, "SE_F": 0.005},
     "Quantum": {"PCI": 9e18, "F": 1e7, "SE_k": 0.01, "SE_F": 2e6}
-} # ... rest of the code
+}
+# ... rest of the code
 ```
 
 
