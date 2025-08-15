@@ -12,10 +12,10 @@ We believe that reality is not an objective, fixed entity, but a **dynamic perce
 
 This document is a living expression of the Panperceptual Theory of the Universe and the initiatives of PercepTemple. It is organized into the following main sections to facilitate navigation and understanding:
 
-- **🚀 [PercepTemple: Panperceptual Startup](./1-panperceptual-startup/)**
+- **🖌️ [PercepTemple: Panperceptual Startup](./1-panperceptual-startup/)**
   Includes the Founder's Letter, the project's Executive Summary, the Foundational Divergences Table, and the Theoretical Framework (Perception as the Architecture of Reality).
 
-- **💡 [Panperceptual Theory of the Universe (TPU)](./2-panperceptual-theory/)**
+- **🎨 [Panperceptual Theory of the Universe (TPU)](./2-panperceptual-theory/)**
   The conceptual heart of the project. It postulates that perception actively shapes reality, connecting consciousness, time, and space within an interdisciplinary framework. It explores how reality emerges from diverse perceptual interactions, unifying perspectives from the subatomic to the cosmic.
 
 - **🤖 [EAI: Exploratory Artificial Intelligence](./3-exploratory-ai/)**
@@ -48,6 +48,6 @@ We invite custodians, observers, and participants to join this active commitment
 ---
 
 —
-🖋️ **Dany D. Ruiz**
+ **Dany D. Ruiz**
 
 *Anartist. Creator of the Panperceptual Theory of the Universe (TPU) and PercepTemple*
