@@ -1,6 +1,6 @@
 The Panperceptual Wave and Partial Reality Engines
 
-– June 2025
+- June 2025
 
 ---
 
