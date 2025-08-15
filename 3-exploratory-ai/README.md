@@ -14,8 +14,8 @@ We invite you to review the documents and code in this directory to explore EAI 
 
 - **[The Church of Data: A Panperceptual Critique](./the-church-of-data.md)**: An introduction that critiques the current data-centric paradigm in AI.
 - **[Unified Theoretical Framework – EAI Little Prince v1.0](./unified-framework-little-prince.md)**: The conceptual and architectural foundation of the EAI model.
-- **[Operative Manifesto for Exploratory Intelligence](./operative-manifesto.md)**: The core principles that guide the design and purpose of EAI.
 - **[Source Code: Little Prince v1.0](./code/little-prince-v1.py)**: The initial Python implementation of the EAI concept.
+- **[Operative Manifesto for Exploratory Intelligence](./operative-manifesto.md)**: The core principles that guide the design and purpose of EAI.
 
 ---
 
