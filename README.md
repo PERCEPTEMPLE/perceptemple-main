@@ -49,4 +49,5 @@ We invite custodians, observers, and participants to join this active commitment
 
 —
 🖋️ **Dany D. Ruiz**
+
 *Anartist. Creator of the Panperceptual Theory of the Universe (TPU) and PercepTemple*
