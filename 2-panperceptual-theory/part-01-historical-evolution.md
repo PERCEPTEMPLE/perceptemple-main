@@ -101,5 +101,5 @@ The evolution of human observation and perception from ancient civilizations to 
 [17] D. J. Chalmers, "Facing up to the problem of consciousness," Journal of Consciousness Studies, vol. 2, no. 3, pp. 200-219, 1995.
 
 ---
-> This document is protected under the [Panperceptual License v1.0](../LICENSE) (2024), developed by Dany Ruiz.
+> This document is protected under the [Panperceptual License v1.0](../LICENSE) (2024), developed by Dany D. Ruiz.
 > Its content is part of the theoretical framework of the Panperceptual Theory of the Universe (TPU) and may be distributed, cited, or expanded under conditions of conscious resonance, perceptual respect, and proper attribution.
