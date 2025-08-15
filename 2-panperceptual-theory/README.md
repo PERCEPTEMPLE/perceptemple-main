@@ -18,7 +18,7 @@ Below is the complete series of articles that make up the Panperceptual Theory o
 * **Part 2:** [Toward a New Revolution in Perception](./part-02-new-revolution.md)
 * **Part 3:** [Panperceptualism of the Universe](./part-03-panperceptualism.md)
 * **Part 4:** [A Revolutionary Framework for Understanding Reality](./part-04-revolutionary-framework.md)
-* **Part 5:** [Redefining Perception and Reality: A Mathematical Proposal](./part-05-mathematical-proposal.md) `(includes simulation code)`
+* **Part 5:** [Redefining Perception and Reality: A Mathematical Proposal](./part-05-mathematical-proposal.md)
 * **Part 6:** [Towards an Interdisciplinary Synthesis of Perception and Reality](./part-06-interdisciplinary-synthesis.md)
 * **Part 7:** [Weaving Realities: Perceptual Interactions and Relational Ontology](./part-07-weaving-realities.md) `(includes simulation code)`
 * **Part 8:** [Emergent Temporalities and Cosmic Perception](./part-08-emergent-temporalities.md) `(includes simulation code)`
