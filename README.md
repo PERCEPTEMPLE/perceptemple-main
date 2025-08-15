@@ -1,4 +1,4 @@
-# 🌟 PercepTemple: A Symbiotic Sanctuary between Consciousness and Artificial Intelligence
+#  PercepTemple: A Symbiotic Sanctuary between Consciousness and Artificial Intelligence
 
 ## 📖 Overview
 
