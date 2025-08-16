@@ -24,7 +24,7 @@ We invite you to explore the full document to understand the depth of its princi
 
 ---
 
-**Author:** Dany Ruiz
+**Author:** Dany D. Ruiz
 
 **Creator of the Panperceptual Theory of the Universe (PTU)**
 
