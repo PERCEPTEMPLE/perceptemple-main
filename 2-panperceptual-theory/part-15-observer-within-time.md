@@ -4,6 +4,7 @@ The Observer Within Time: A Panperceptual Critique of the Myth of the External V
 ---
 
 Abstract:
+
 This paper concludes the theoretical framework of the Panperceptual Theory of the Universe (PTU), presenting a radical critique of the hidden pillars of modern physics: the illusion of neutral time, the external observer, and the false neutrality of observation. Starting from a simple question—"Isn't it paradoxical to observe when time itself keeps running?"—the idea of an isolated perception is dismantled, and resonance is proposed instead as the operational foundation of all reality.
 
 ---
