@@ -29,9 +29,12 @@ Below is the complete series of articles that make up the Panperceptual Theory o
 * **Part 13:** [The Panperceptual Wave and Partial Reality Engines](./part-13-panperceptual-wave.md)
 * **Part 14:** [The Law of Sequential Perceptual Collapse](./part-14-sequential-collapse.md)
 * **Part 15:** [The Observer Within Time: A Panperceptual Critique](./part-15-observer-within-time.md)
+* **Part 16:** [An Epistemological Critique of the Cultural Limits of Popperian Science from the Panperceptual Theory of the Universe](./part-16-epistemological-critique.md)
+* **Part 17:** [Perceptual Complexity Index Analysis: String Geometry as Framework for Observer Negotiation](./part-17-geometry-framework.md)
+
 
 ---
 
-**Author:** Dany Ruiz
+**Author:** Dany D. Ruiz
 
 **Creator of the Panperceptual Theory of the Universe and PercepTemple**
